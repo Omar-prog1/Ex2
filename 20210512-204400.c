@@ -11,7 +11,7 @@ int main()
     printf("\n\nDame el valor entero de b");
     scanf("%f",&b);
     c= a+b;
-    printf("\n El resultado es %f",c);
+    printf("\n El resultado es %d",c);
     return 0; 
 }
 
